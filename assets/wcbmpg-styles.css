@@ -1,0 +1,118 @@
+/* Unique Wrapper ID for Specificity and Isolation */
+#bm_gwp-payment-details-wrapper {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    clear: both;
+    width: 100%;
+}
+
+/* style for Bank Details Container */
+#bm_gwp-payment-details-wrapper #bm_gwp-payment-details-inner.bm_gwp-details-box {
+    padding: 15px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+/* Bank Name Styling - Class CHANGED */
+#bm_gwp-payment-details-wrapper .bm_gwp-bank-name strong {
+    font-size: 1.1em;
+    color: #0056b3; 
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+/* Bank Details List Styling */
+#bm_gwp-payment-details-wrapper .bm_gwp-account-list {
+    list-style: none !important; 
+    margin: 10px 0 20px 0 !important;
+    padding: 0 !important;
+    line-height: 1.6;
+}
+
+/* List Item Classes CHANGED */
+#bm_gwp-payment-details-wrapper .bm_gwp-account-list .bm_gwp-list-item {
+    font-size: 0.95em;
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 0;
+    border-bottom: 1px dotted #eee;
+}
+
+#bm_gwp-payment-details-wrapper .bm_gwp-account-list .bm_gwp-list-item:last-child {
+    border-bottom: none;
+}
+
+#bm_gwp-payment-details-wrapper .bm_gwp-account-list .bm_gwp-list-item strong {
+    font-weight: 600;
+    color: #555;
+    flex-basis: 45%; 
+    text-align: left;
+}
+#bm_gwp-payment-details-wrapper .bm_gwp-account-list .bm_gwp-list-item span {
+    text-align: right;
+    flex-basis: 50%; 
+    font-weight: normal;
+}
+
+/* Style for the customizable description */
+#bm_gwp-payment-details-wrapper .bm_gwp-payment-instruction-description {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    font-size: 0.9em;
+    color: #444;
+    line-height: 1.5;
+    box-sizing: border-box; 
+    width: 100%;
+}
+
+/* Style for Transaction ID field */
+#bm_gwp-payment-details-wrapper .bm_gwp-transaction-id-field {
+    clear: both;
+    margin-top: 15px;
+    padding: 10px 15px 0 15px;
+    border-top: 1px solid #ddd;
+    box-sizing: border-box; 
+    width: 100%;
+}
+
+#bm_gwp-payment-details-wrapper .bm_gwp-transaction-id-field label {
+    font-weight: 600;
+    display: block;
+    margin-bottom: 5px;
+    font-size: 1em;
+}
+
+/* Targeting the specific input field */
+#bm_gwp-payment-details-wrapper .bm_gwp-transaction-id-field input.bm_gwp-input-field {
+    width: 100% !important;
+    box-sizing: border-box;
+    padding: 8px 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: #fff;
+    font-size: 1em; 
+}
+
+/* Helper text below details */
+#bm_gwp-payment-details-wrapper .bm_gwp-help-text {
+    margin-top: 15px;
+    font-size: 0.9em;
+    color: #666;
+}
+
+/* Admin details box style */
+.bm_gwp-admin-transaction-id-box {
+    padding: 10px;
+    border: 1px solid #ffba00; 
+    background-color: #fffbe6;
+    margin-bottom: 15px;
+}
+.bm_gwp-admin-transaction-id-box h3 {
+    margin-top: 0;
+    border-bottom: 1px solid #ffba00;
+    padding-bottom: 5px;
+}
