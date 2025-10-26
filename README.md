@@ -85,6 +85,8 @@ First stable release.
 
 ## ⚖️ License & Copyright
 - Copyright © **Raisul Islam Shagor** 
-- Contact: deploy@shagor.dev 
+- Email: deploy@raisul.dev
+- Website: https://raisul.dev/
+- Conatct: https://raisul.dev/contact
 - Licensed under the **GPLv2 or later**  
 - ✅ This plugin is **free to use, modify, and distribute** under the license terms.
