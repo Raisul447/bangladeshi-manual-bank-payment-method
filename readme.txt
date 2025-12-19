@@ -1,14 +1,14 @@
 === Bangladeshi Manual Bank Payment Method ===
 Contributors: shagor447
 Tags: woocommerce, payment gateway, bangladesh bank transfer, manual payment, bangladeshi bank
-Requires at least: 4.8
-Tested up to: 6.8
-Requires PHP: 7.0
-Stable tag: 1.0.2
+Requires at least: 6.0
+Tested up to: 6.9
+Requires PHP: 7.4
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-A custom WooCommerce payment gateway designed to securely accept direct bank transfers from customers in Bangladesh, making local transactions simple and reliable.
+Custom WooCommerce gateway for secure direct bank transfers in Bangladesh, making local transactions simple and reliable.
 
 == Description ==
 This plugin adds a custom Direct Bank Transfer payment option for WooCommerce, specially designed for businesses and customers in Bangladesh.
@@ -51,6 +51,14 @@ Yes, the plugin does not store any sensitive banking information and follows sta
 
 == Changelog ==
 
+= 1.0.4 =
+* Tested with the latest WordPress release.
+* Fixed minor bugs and stability issues.
+* Security improvements implemented.
+
+= 1.0.3 =
+* Fixed missing data.
+
 = 1.0.2 =
 * Fix: Addressed security and internationalization issues flagged by the Plugin Checker.
 * Minor bug fixes.
@@ -62,5 +70,5 @@ Yes, the plugin does not store any sensitive banking information and follows sta
 * Initial release of the plugin.
 
 = Update  Notice =
-= 1.0.2 =
-First stable release
+= 1.0.4 =
+Version 1.0.4 has been released as a stable version.
