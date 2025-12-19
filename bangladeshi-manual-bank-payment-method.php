@@ -3,12 +3,12 @@
 Plugin Name: Bangladeshi Manual Bank Payment Method
 Plugin URI:  https://rshagor.com/
 Description: A custom WooCommerce payment gateway designed to securely accept direct bank transfers from customers in Bangladesh, making local transactions simple and reliable.
-Version:     1.0.2
+Version:     1.0.4
 Author:      Raisul Islam Shagor
 Author URI:  https://shagor.dev
-Requires at least: 4.8
-Tested up to: 6.8
-Requires PHP: 7.0
+Requires at least: 6.0
+Tested up to: 6.9
+Requires PHP: 7.4
 Requires Plugins: woocommerce
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
