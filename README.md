@@ -8,10 +8,10 @@ A custom WooCommerce payment gateway designed to securely accept direct bank tra
 ## 📌 Plugin Information
 - **Contributors:** shagor447  
 - **Tags:** woocommerce, payment gateway, bangladesh bank transfer, manual payment, bangladeshi bank
-- **Requires at least:** WordPress 4.8  
-- **Tested up to:** WordPress 6.8  
-- **Requires PHP:** 7.0  
-- **Stable tag:** 1.0.2 
+- **Requires at least:** WordPress 6.0  
+- **Tested up to:** WordPress 6.9  
+- **Requires PHP:** 7.4  
+- **Stable tag:** 1.0.4 
 - **License:** [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)  
 
 ---
@@ -66,6 +66,14 @@ Yes, the plugin does not store any sensitive banking information and follows sta
 
 ## 📝 Changelog
 
+### 1.0.4
+- Tested with the latest WordPress release.
+- Fixed minor bugs and stability issues.
+- Security improvements implemented.
+  
+### 1.0.3
+- Fixed missing data.
+
 ### 1.0.2
 - Fix: Addressed security and internationalization issues flagged by the Plugin Checker.
 - Minor bug fixes.
@@ -80,8 +88,8 @@ Yes, the plugin does not store any sensitive banking information and follows sta
 ---
 
 ## 📢 Update Notice
-= 1.0.2 =
-First stable release.
+= 1.0.4 =
+Version 1.0.4 has been released as a stable version.
 
 ## ⚖️ License & Copyright
 - Copyright © **Raisul Islam Shagor** 
